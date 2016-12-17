@@ -1,0 +1,30 @@
+{
+  "name": "template-file-loader",
+  "version": "0.0.1",
+  "description": "helps you load template file, supported by consolidate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JounQin/template-file-loader.git"
+  },
+  "keywords": [
+    "template-loader",
+    "template",
+    "loader",
+    "webpack",
+    "webpack-loader"
+  ],
+  "author": "JounQin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JounQin/template-file-loader/issues"
+  },
+  "homepage": "https://github.com/JounQin/template-file-loader#readme",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "loader-utils": "^0.2.16"
+  }
+}
