@@ -1,4 +1,6 @@
 # template-file-loader
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JounQin/template-file-loader.svg)](https://greenkeeper.io/)
 helps you load template file, supported by consolidate
 
 ## Usage
