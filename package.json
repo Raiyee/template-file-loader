@@ -1,6 +1,6 @@
 {
   "name": "template-file-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "helps you load template file, supported by consolidate",
   "main": "index.js",
   "scripts": {
